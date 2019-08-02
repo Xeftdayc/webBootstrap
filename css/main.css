@@ -1,0 +1,18 @@
+body {
+    font-family: 'Grenze', serif;
+}
+
+header {
+    margin-top: 75px;
+}
+
+#id_testimonial {
+    background: #f1f1f1;
+    padding: 50px 0 30px 0;
+    text-align: center;
+    margin-top: 40px;
+}
+
+footer {
+    background: url("https://cdn2.itpro.co.uk/sites/itpro/files/styles/insert_main_wide_image/public/2017/06/microsoft-surface-pro-6.jpg?itok=HvTWs0dR");
+}
